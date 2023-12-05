@@ -6,6 +6,7 @@ public class principal {
 		// TODO Auto-generated method stub
 		System.out.println("holaaaa");
 		System.out.println("version git hub");
+		System.out.println("versioneditado el domingo");
 
 	}
 
