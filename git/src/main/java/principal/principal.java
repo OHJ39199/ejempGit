@@ -13,6 +13,7 @@ public class principal {
 		System.out.println("seguimos trabajando");
 
 		System.out.println("version de un incompetente");
+		System.out.println("trabajo equipo");
 
 
 	}
