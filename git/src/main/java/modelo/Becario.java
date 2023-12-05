@@ -6,6 +6,7 @@ public class Becario {
 		// TODO Auto-generated method stub
 		System.out.println("trabajando duro");
 		System.out.println("este macario trabaja mucho");
+		System.out.println("otro dia de trabajo");
 	}
 
 }
