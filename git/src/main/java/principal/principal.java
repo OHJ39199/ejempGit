@@ -9,7 +9,11 @@ public class principal {
 		System.out.println("versioneditado el domingo");
 		System.out.println("muchisimo trbajo");
 		
+
 		System.out.println("seguimos trabajando");
+
+		System.out.println("version de un incompetente");
+
 
 	}
 
